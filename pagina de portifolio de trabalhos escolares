@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meus Trabalhos</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Meus Trabalhos</h1>
+        <p>Portfólio dos projetos que desenvolvi ao longo das aulas.</p>
+    </header>
+
+    <main>
+        <section class="projetos">
+            <ul>
+                <li>
+                    <h2>1. Site de Receitas</h2>
+                    <img src="https://via.placeholder.com/800x400?text=Site+de+Receitas" alt="Imagem do site de receitas">
+                    <p>Um site criado em HTML e CSS para apresentar receitas simples, com fotos e passo a passo.</p>
+                    <a href="https://youtu.be/exemplo1" target="_blank">Ver vídeo de apresentação</a>
+                </li>
+
+                <li>
+                    <h2>2. Calculadora Online</h2>
+                    <img src="https://via.placeholder.com/800x400?text=Calculadora+Online" alt="Imagem da calculadora online">
+                    <p>Uma calculadora feita em JavaScript, com design minimalista e operações básicas.</p>
+                    <a href="https://youtu.be/exemplo2" target="_blank">Assistir demonstração</a>
+                </li>
+
+                <li>
+                    <h2>3. Blog Escolar</h2>
+                    <img src="https://via.placeholder.com/800x400?text=Blog+Escolar" alt="Imagem do blog escolar">
+                    <p>Blog criado para compartilhar textos e atividades dos alunos, usando HTML e CSS.</p>
+                    <a href="https://youtu.be/exemplo3" target="_blank">Ver vídeo de apresentação</a>
+                </li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>© 2025 - Desenvolvido por Maria Eduarda Bolner</p>
+    </footer>
+</body>
+</html>
